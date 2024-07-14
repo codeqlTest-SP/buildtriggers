@@ -1,4 +1,4 @@
 # buildtriggers
 First Edition!
 Second Edition!
-Therd Edition!
+Editado via git command.
